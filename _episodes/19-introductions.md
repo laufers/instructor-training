@@ -155,7 +155,7 @@ the workshop policies.
 **Explain your expectations** for learner behavior including expectations
 around: 
 
-- [Code of Conduct](datacarpentry.org/code-of-conduct/)
+- [Code of Conduct](https://software-carpentry.org/conduct/)
 - ways to ask for help
 - ways to give instructors feedback
 
